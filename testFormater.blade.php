@@ -1,1 +1,3 @@
-@extends('test')
+<template>
+
+</template>
